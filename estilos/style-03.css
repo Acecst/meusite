@@ -60,7 +60,7 @@ nav>a:hover {
 }
 
 main>div#foto-alex {
-    background-image: url(../imagens/fundo-site-alex-1200.jpg);
+    background-image: url(./imagens/fundo-site-alex-1200.jpg);
     background-position: center;
     /* Centraliza a imagem */
     background-size: cover;
