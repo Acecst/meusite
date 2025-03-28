@@ -178,7 +178,7 @@ article#cafes {
     padding: 10px;
     margin-top: 10px;
     height: 400px;
-    background-image: url(../imagens/cafe-fundo-300.jpg);
+    background-image: url(./imagens/cafe-fundo-300.jpg);
     background-position: center;
     /* Centraliza a imagem */
     background-size: cover;
